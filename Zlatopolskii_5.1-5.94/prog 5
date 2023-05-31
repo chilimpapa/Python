@@ -1,0 +1,4 @@
+# Златопольский 5.3 в)
+b = int(input())
+for i in range(10, b + 1):
+    print(i ** 3)
